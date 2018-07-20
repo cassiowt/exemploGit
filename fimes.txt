@@ -1,5 +1,7 @@
 "Não há certezas, apenas oportunidades." (V de  Vigança)
 "Diga 'olá' para meu pequeno amigo!" (Scarface)
-"Hassta la vista baby." (Exterminador do Fututo 2)"Mantenha seus amigos por perto, e o inimigos mais perto ainda." (Poderoso Chefao)
+"Hassta la vista baby." (Exterminador do Fututo 2)"
+Mantenha seus amigos por perto, e o inimigos mais perto ainda." (Poderoso Chefao)
+Testando branches
 minhafrase (meu filme)
 minha nova frase (meu novo filme)
